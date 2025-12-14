@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/smsf-allocation-performance-mvp/',
+  base: '/smsf-allocation-performance/',
 })
